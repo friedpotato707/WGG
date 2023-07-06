@@ -1,6 +1,6 @@
 # C Word-guessing game implemented using sockets
 
-## How to run:
+## Instructions for Ubuntu:
 1. Navigate into the project folder.
 2. Run 'make'.
 3. Run the server using './wordsrv'.
