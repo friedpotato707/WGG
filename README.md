@@ -1,4 +1,4 @@
-# C Word-guessing game implemented using sockets
+# Word-guessing game implemented using C programming language and sockets.
 
 ## Instructions for Ubuntu:
 1. Navigate into the project folder.
